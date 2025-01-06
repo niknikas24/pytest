@@ -43,6 +43,6 @@
  
     `pytest test_pet.py`
 
-    `pytest test_store.py`
-
     `pytest test_user.py`
+
+    `pytest test_store.py`
